@@ -6,4 +6,4 @@
 
 ### College - B. P. Poddar Institute of Management and Technology
 
-## I have finished uploading my first 7 exercise answers on Week 4 & 5 module.
+## I have finished uploading all exercise answers on Week 4 & 5 module.
